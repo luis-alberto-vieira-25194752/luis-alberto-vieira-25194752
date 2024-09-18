@@ -7,7 +7,8 @@ You can click the Preview link to take a look at your changes.
 - Soy un científico de datos en formación con un máster en Big Data y Business Intelligence. Mi experiencia en investigación me ha permitido desarrollar sólidas habilidades analíticas y técnicas, que he aplicado en diversos proyectos de análisis de datos y aprendizaje automático. Estoy apasionado por la ciencia y comprometido con el aprendizaje continuo, siempre buscando nuevas oportunidades para crecer y contribuir en el campo de la ciencia de datos.
 
 ### Dónde encontrarme
-- [linkedin](https://www.linkedin.com/in/luis-alberto-vieira-25194752)
+- [linkedin](www.linkedin.com/in/
+luis-alberto-vieira-domingos-25194752)
 
 
   
